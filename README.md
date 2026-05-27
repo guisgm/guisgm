@@ -82,7 +82,7 @@
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="jest" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="50" alt="pytest" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guisgm&theme=tokyonight"/>
 </div>
 
 ---
@@ -91,7 +91,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guisgm&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guisgm&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisgm&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
