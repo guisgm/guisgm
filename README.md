@@ -130,5 +130,5 @@
 ---
 
 <p align="center">
-  ✨ "Transformando ideias em código." ✨
+   "Transformando ideias em código." 
 </p>
